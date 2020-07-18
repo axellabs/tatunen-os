@@ -3,7 +3,7 @@ a small os written in rust, based on the Philipp Oppermann blog post
 https://os.phil-opp.com/
 
 ## Steps in creating a Rust OS
-1. Create a freestandung Rust Binary
+1. Create a freestandung Rust Binary [done]
 2. Write a microkernel (x86)
 3. VGA text mode
 4. Add unit and integration testing
