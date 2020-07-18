@@ -1,5 +1,6 @@
 #![no_std] // unlink the rust standard library
 #![no_main] // disable all rust-level entry points
+extern crate rlibc;
 
 use core::panic::PanicInfo;
 
